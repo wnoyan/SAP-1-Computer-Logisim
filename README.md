@@ -2,41 +2,62 @@
 The Simple-As-Possible (SAP)-1 computer is a very basic model of a microprocessor explained by Albert Paul Malvino. The SAP-1 design contains the basic necessities for a functional Microprocessor. Its primary purpose is to develop a basic understanding of how a microprocessor works, interacts with memory and other parts of the system like input and output. The instruction set is very limited and is simple.
 
 
-![SAP-1 Computer](/images/main.JPG)
+![alt text](https://github.com/wnoyan/SAP-1-Computer-Logisim/blob/master/images/main.JPG)
 
 
-
-![SAP-1 Computer](/images/Counter.JPG)
-
+Figure 1: Main Circuit of SAP-1 Computer
 
 
-![SAP-1 Computer](/images/Controller.JPG)
+![alt text](https://github.com/wnoyan/SAP-1-Computer-Logisim/blob/master/images/Counter.JPG)
 
 
-
-![SAP-1 Computer](/images/iDecoder.JPG)
-
+Figure 2: Counter
 
 
-![SAP-1 Computer](/images/Ring Counter.JPG)
+![alt text](https://github.com/wnoyan/SAP-1-Computer-Logisim/blob/master/images/Controller.JPG)
 
 
-
-![SAP-1 Computer](/images/ALU.JPG)
-
+Figure 3: Controller
 
 
-![SAP-1 Computer](/images/FA.JPG)
+![alt text](https://github.com/wnoyan/SAP-1-Computer-Logisim/blob/master/images/iDecoder.JPG)
 
 
-
-![SAP-1 Computer](/images/One-Zero Circuit.JPG)
-
+Figure 4: iDecoder
 
 
-![SAP-1 Computer](/images/4 bits Register.JPG)
+![alt text](https://github.com/wnoyan/SAP-1-Computer-Logisim/blob/master/images/Ring%20Counter.JPG)
 
 
+Figure 5: Ring Counter
 
-![SAP-1 Computer](/images/8 bits Register.JPG)
+
+![alt text](https://https://github.com/wnoyan/SAP-1-Computer-Logisim/blob/master/images/ALU.JPG)
+
+
+Figure 6: ALU
+
+
+![alt text](https://github.com/wnoyan/SAP-1-Computer-Logisim/blob/master/images/FA.JPG)
+
+
+Figure 7: FA
+
+
+![alt text](https://https://github.com/wnoyan/SAP-1-Computer-Logisim/blob/master/images/One-Zero%20Circuit.JPG)
+
+
+Figure 8: One-Zero Circuit
+
+
+![alt text](https://https://github.com/wnoyan/SAP-1-Computer-Logisim/blob/master/images/4%20bits%20Register.JPG)
+
+
+Figure 9: 4 bits Register
+
+
+![alt text](https://github.com/wnoyan/SAP-1-Computer-Logisim/blob/master/images/8%20bits%20Register.JPG)
+
+
+Figure 10: 8 bits Register
 
