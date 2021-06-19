@@ -32,7 +32,7 @@ Figure 4: iDecoder
 Figure 5: Ring Counter
 
 
-![alt text](https://https://github.com/wnoyan/SAP-1-Computer-Logisim/blob/master/images/ALU.JPG)
+![alt text](https://github.com/wnoyan/SAP-1-Computer-Logisim/blob/master/images/ALU.JPG)
 
 
 Figure 6: ALU
@@ -44,13 +44,13 @@ Figure 6: ALU
 Figure 7: FA
 
 
-![alt text](https://https://github.com/wnoyan/SAP-1-Computer-Logisim/blob/master/images/One-Zero%20Circuit.JPG)
+![alt text](https://github.com/wnoyan/SAP-1-Computer-Logisim/blob/master/images/One-Zero%20Circuit.JPG)
 
 
 Figure 8: One-Zero Circuit
 
 
-![alt text](https://https://github.com/wnoyan/SAP-1-Computer-Logisim/blob/master/images/4%20bits%20Register.JPG)
+![alt text](https://github.com/wnoyan/SAP-1-Computer-Logisim/blob/master/images/4%20bits%20Register.JPG)
 
 
 Figure 9: 4 bits Register
